@@ -5,7 +5,8 @@
   brittanychiang.com - v4
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The portfolio source for <a href="https://jeffalot.io" target="_blank">jeffalot.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  Design and source by [Brittany Chiang](https://brittanychiang.com/) with minimal configuration and modification by myself.
 </p>
 <p align="center">
   Previous iterations:
