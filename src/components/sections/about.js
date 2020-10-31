@@ -141,7 +141,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>Hello! I'm Jeff, a software engineer based in Richmond, VA.</p>
 
             <p>
               I enjoy creating things that live on the internet, whether that be websites,
@@ -151,7 +151,7 @@ const About = () => {
 
             <p>
               Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
+              <a href="https://engineering.virginia.edu/departments/computer-science">University of Virginia</a>, I joined the
               engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
               on a wide variety of interesting and meaningful projects on a daily basis.
             </p>
