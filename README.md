@@ -7,7 +7,7 @@
 <p align="center">
   The portfolio source for <a href="https://jeffalot.io" target="_blank">jeffalot.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
   </p>
-  <p align="center">Design and source by [Brittany Chiang](https://brittanychiang.com/) with minimal configuration and modification by [Jeff Hall](https://jeffhall.net).
+  <p align="center">Design and source by <a href="https://brittanychiang.com/">Brittany Chiang</a> with minimal configuration and modification by <a href="https://jeffhall.net">Jeff Hall</a>.
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/jeffhall/deploys" target="_blank">
