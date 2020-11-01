@@ -8,13 +8,13 @@ const GlobalStyle = createGlobalStyle`
 
   :root {
     --dark-navy: #e4c7b4;
-    --navy: #e0dad7;
-    --light-navy: #eadfd7;
-    --lightest-navy: #e6bfa5;
+    --navy: #f2f2f2;
+    --light-navy: #faeee4;
+    --lightest-navy: #f6e0ce;
     --navy-shadow: rgba(2, 12, 27, 0.7);
-    --slate: #de7f55;
-    --light-slate: #d77d56;
-    --lightest-slate: #dc6b39;
+    --slate: #f68c59;
+    --light-slate: #f48651;
+    --lightest-slate: #f2783e;
     --white: #e6f1ff;
     --green: #1e2939;
     --green-tint: rgba(30, 41, 57, .1);
