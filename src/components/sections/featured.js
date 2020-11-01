@@ -102,7 +102,7 @@ const StyledProject = styled.div`
     }
 
     @media (max-width: 768px) {
-      color: var(--white);
+      color: var(--lightest-slate);
     }
   }
 
@@ -181,10 +181,29 @@ const StyledProject = styled.div`
     position: relative;
     z-index: 1;
 
+    // When in mobile view, don't show images for projects as it makes it difficult to read project
     @media (max-width: 768px) {
       grid-column: 1 / -1;
       height: 100%;
-      opacity: 0.1;
+      opacity: 1;
+      color: var(--lightest-navy);
+      background-color: var(--lightest-navy);
+
+      &:before {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 3;
+        transition: var(--transition);
+        background-color: var(--lightest-navy);
+        mix-blend-mode: inherit;
+        opacity: 1;
+      }
     }
 
     a {
@@ -215,9 +234,9 @@ const StyledProject = styled.div`
         bottom: 0;
         z-index: 3;
         transition: var(--transition);
-        // background-color: var(--light-navy);
-        // mix-blend-mode: screen;
-        // opacity: .8;
+        //  background-color: var(--lightest-navy);
+        mix-blend-mode: screen;
+        opacity: 0.3;
       }
     }
 
