@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'PHMSA Itinerary Planner'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: ''
+external: ''
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Java
+  - Spring Framework
+  - Oracle Database
+  - Google Maps JS API
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A web app for planning regulatory investigations at facilities across the United States. Designed and developed under contract for the United States Department of Transportation (USDOT) - Pipeline and Hazardous Materials Safety Administration (PHMSA). View and compare risky facilities in a user friendly web application and process itineraries through a business workflow.
