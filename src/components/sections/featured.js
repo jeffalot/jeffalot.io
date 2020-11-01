@@ -186,8 +186,8 @@ const StyledProject = styled.div`
       grid-column: 1 / -1;
       height: 100%;
       opacity: 1;
-      color: var(--lightest-navy);
-      background-color: var(--lightest-navy);
+      color: var(--light-navy);
+      background-color: var(--light-navy);
 
       &:before {
         content: '';
@@ -200,7 +200,7 @@ const StyledProject = styled.div`
         bottom: 0;
         z-index: 3;
         transition: var(--transition);
-        background-color: var(--lightest-navy);
+        background-color: var(--light-navy);
         mix-blend-mode: inherit;
         opacity: 1;
       }
