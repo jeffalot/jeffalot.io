@@ -7,8 +7,8 @@ external: ''
 tech:
   - Java
   - Spring Framework
-  - Oracle Database
-  - Google Maps JS API
+  - Oracle DB
+  - Google Maps
 showInProjects: true
 ---
 
