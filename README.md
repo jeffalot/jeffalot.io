@@ -5,7 +5,7 @@
   jeffhall.net
 </h1>
 <p align="center">
-  The portfolio source for <a href="https://jeffalot.io" target="_blank">jeffhall.net</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The portfolio source for <a href="https://jeffhall.net" target="_blank">jeffhall.net</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
   </p>
   <p align="center">Design and source by <a href="https://brittanychiang.com/">Brittany Chiang</a> with minimal configuration and modification by <a href="https://jeffhall.net">Jeff Hall</a>.
 </p>
