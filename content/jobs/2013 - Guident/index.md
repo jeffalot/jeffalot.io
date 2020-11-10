@@ -1,12 +1,12 @@
 ---
-date: '2018-04-01'
+date: '2013-06-01'
 title: 'Junior Software Engineer'
 company: 'Guident'
 location: 'Herndon, VA'
-range: 'January - April 2018'
+range: 'June 2013 - Jul 2014'
 url: ''
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Worked as part of a 5-person team to design and build new inspection planning and risk analysis software to be used as the first step in planning the 1000s of inspections conducted by PHMSA investigators annually.
+- Designed and implemented new mapping and visualization functionality in Javascript and HTML5 to rank and display the riskiest hazmat transporters.
+- Developed the Java backend and data model to support web application functionality

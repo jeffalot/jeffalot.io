@@ -1,12 +1,13 @@
 ---
-date: '2019-04-01'
-title: 'Mid-Level Software Engineer'
-company: 'Scout'
+date: '2018-03-01'
+title: 'Senior Software Engineer'
+company: 'Salient CRGT (2018)'
 location: 'Washington, DC'
-range: 'January - April 2019'
-url: 'https://web.northeastern.edu/scout/'
+range: 'March 2018 - Present'
+url: ''
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Currently responsible for operations and maintenance of J2EE Spring web applications, web services, command line applications, and related data models to support the PHMSA Data Mart and numerous modal partners.
+- Delivered a complete overhaul of the inspection planning software for PHMSA, including UX design and buildout, web service redesign, and business logic updates utilizing Java, Spring, JSP, and Javascript technologies
+- Designed and implemented migration plan for transitioning all existing web applications to latest Spring 5 technologies, including Spring Boot, Spring Security, and and Spring Data Repositories
+- Set up and maintained key infrastructure, including WebLogic server configuration and deployment configuration for automated data piping tasks
