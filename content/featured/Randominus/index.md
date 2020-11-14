@@ -2,8 +2,8 @@
 date: '1'
 title: 'Randominus'
 cover: './halcyon.png'
-github: ''
-external: ''
+github: 'https://github.com/bchiang7/halcyon-site'
+external: 'https://halcyon-theme.netlify.com/'
 tech:
   - AWS
   - Docker
@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-A modular random choice game utilizing an extendable OpenAPI backend. Documentation available describing how to extend the existing random game.
+A modular random choice game utilized a microservices backend. Documentation available describing how to extend the existing random game.
